@@ -5,6 +5,8 @@
 
 [Solving Coding Problems](https://ksh-study.flarebrick.com)
 
+[백준 프로필](https://www.acmicpc.net/user/kshicpc)
+
 ## Email
 **me@ksh.one**
 
