@@ -1,9 +1,9 @@
 # Hi, I am SangHyeon
 
 ## Websites related to me
-[Profile](https://sanghyeon.kim)
+[Profile](https://ksh.one)
 
-[Solving Coding Problems](https://ksh.one)
+[School Arrangement](https://study.ksh.one)
 
 [백준 프로필](https://www.acmicpc.net/user/kshicpc)
 
